@@ -105,7 +105,7 @@ export default function Login() {
           color: '#333',
           textAlign: 'center'
         }}>
-          Welcome Back
+          Welcome To Om Mahale's AI Website
         </h1>
         <p style={{
           color: '#666',
@@ -208,6 +208,7 @@ export default function Login() {
           }}>
             {error}
           </div>
+          
         )}
         </div>
       </div>
