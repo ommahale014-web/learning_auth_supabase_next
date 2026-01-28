@@ -76,7 +76,7 @@ export default function ChatPage() {
       <header className="flex items-center justify-between px-6 py-4 border-b border-white/10 backdrop-blur">
         <div>
           <h1 className="text-lg font-semibold tracking-wide">
-            Gemini Chat
+            Om Mahale's AI Chat
           </h1>
           <p className="text-xs text-slate-400">
             Secure • Persistent • AI-powered
@@ -123,7 +123,7 @@ export default function ChatPage() {
         {loading && (
           <div className="flex justify-start">
             <div className="bg-slate-800 text-slate-400 px-4 py-3 rounded-2xl text-sm animate-pulse">
-              Gemini is thinking…
+              Om Mahale is thinking…
             </div>
           </div>
         )}
